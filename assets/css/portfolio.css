@@ -26,14 +26,12 @@ h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-
 .links {
     position: absolute;
     float: right;
     top: 10px;
     right: 240px;
    
-
 }
 
 ul {
@@ -52,13 +50,11 @@ li {
     color-interpolation-filters: #d3d3d3;
 }
 
-
 .middle {
     background: #dddddd;
     padding-top: 30px;
     padding-bottom: 70px;
 }
-
 
 .content {
     width: 960px;
@@ -75,20 +71,17 @@ li {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-#selfie {
-    margin-left: 20px;
-    margin-right: 20px;
-    float: left;
-
+.photos {
+   
 }
 
-#bio {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
-    line-height: 30px;
-    color: #777777;
-    margin: 20px;
+img {
+    height: 150px;
+    width: 290px;
+    padding: 20px;
 }
+
+
 
 
 .bottom {
@@ -100,3 +93,19 @@ li {
    font-size: 12px;
 }
 
+.bill{
+    float: left;
+}
+
+.food {
+    float:left
+    
+}
+
+.steal {
+    float: left
+}
+
+.segal {
+    float: left;
+}
